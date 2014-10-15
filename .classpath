@@ -18,10 +18,18 @@
 			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-oracle">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/jpbc-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/jpbc-plaf-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/jpbc-benchmark-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/jpbc-crypto-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/jpbc-mm-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Logiciels/Eclipse/configuration/org.eclipse.osgi/bundles/854/jpbc-pbc-2.0.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
